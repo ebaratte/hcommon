@@ -3,7 +3,7 @@
  "version":"0.3.0",
  "description":"A utility package (modified by etienne)",
  "author": "Etienne Baratte <ebaratte@gmail.com>",
- "repository": "git://github.com/ebaratte/common.git",
+ "repository": "git://github.com/ebaratte/hcommon.git",
  "contributors": [
    "Mathias Buus Madsen <m@ge.tt>",
    "Etienne Baratte <ebaratte@gmail.com>"
