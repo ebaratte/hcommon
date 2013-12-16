@@ -1,8 +1,8 @@
 {
  "name":"common",
  "version":"0.3.0",
- "description":"A utility package with some useful functional stuff",
- "author": "Ge.tt <hello@ge.tt>",
+ "description":"A utility package (modified by etienne)",
+ "author": "Etienne Baratte <ebaratte@gmail.com>",
  "repository": "git://github.com/ebaratte/common.git",
  "contributors": [
    "Mathias Buus Madsen <m@ge.tt>",
