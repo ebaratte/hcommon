@@ -1,5 +1,5 @@
 {
- "name":"common",
+ "name":"hcommon",
  "version":"0.3.0",
  "description":"A utility package (modified by etienne)",
  "author": "Etienne Baratte <ebaratte@gmail.com>",
