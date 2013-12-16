@@ -1,12 +1,22 @@
 {
- "name":"hcommon",
- "version":"0.3.0",
- "description":"A utility package (modified by etienne)",
- "author": "Etienne Baratte <ebaratte@gmail.com>",
- "repository": "git://github.com/ebaratte/hcommon.git",
- "contributors": [
-   "Mathias Buus Madsen <m@ge.tt>",
-   "Etienne Baratte <ebaratte@gmail.com>"
- ],
- "main":"./index.js"
+  "name": "hcommon",
+  "version": "0.3.0",
+  "description": "A utility package (modified by etienne)",
+  "author": "Etienne Baratte <ebaratte@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ebaratte/hcommon.git"
+  },
+  "contributors": [
+    "Mathias Buus Madsen <m@ge.tt>",
+    "Etienne Baratte <ebaratte@gmail.com>"
+  ],
+  "main": "./index.js",
+  "bugs": {
+    "url": "https://github.com/ebaratte/hcommon/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD"
 }
