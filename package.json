@@ -1,6 +1,6 @@
 {
   "name": "hcommon",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A utility package (modified by etienne)",
   "author": "Etienne Baratte <ebaratte@gmail.com>",
   "repository": {
@@ -11,12 +11,5 @@
     "Mathias Buus Madsen <m@ge.tt>",
     "Etienne Baratte <ebaratte@gmail.com>"
   ],
-  "main": "./index.js",
-  "bugs": {
-    "url": "https://github.com/ebaratte/hcommon/issues"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "license": "BSD"
+  "main": "./index.js"
 }

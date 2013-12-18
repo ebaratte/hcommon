@@ -41,6 +41,7 @@ exports.step = function(funcs, onerror) {
 		try {
 			fn.apply(state, pointer < funcs.length ? args : [value, next]);
 		} catch (exc) {
+			console.log('[EXCEPTION CAUGHT]', exc, exc.stack.replace(/\n/g, ''));
 			complete = true;
 			next(exc);
 			return;
